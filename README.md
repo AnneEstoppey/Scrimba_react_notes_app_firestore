@@ -1,19 +1,9 @@
-# coea14f76b39cf1bfb7c86de4
+# Notes app from React Scrimba class
 
-Quick start:
+This simple app lets us write, update and delete notes. 
+The UI is provided by react-mde, read here: https://github.com/andrerpena/react-mde.
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
 
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
 
 ## About Scrimba
 
