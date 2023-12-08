@@ -10,6 +10,7 @@ https://cloud.google.com/firestore/docs/create-database-web-mobile-client-librar
 
 In this project we learned:
 - how to interact with a Firestore database: creating, updating and deleting notes from the UI, and having the database reacting to these actions
+- synchronizing with the notes in Firestore when opening the app
 - setting up a debouncing effect (delay) so that the database is not updating each time a character is written in the title or body of the note for instance
 - set up the sidebar where the notes are listed: the last updated note comes on top of the list, also added a delete (trash) button, as well as capturing the title of the note as a note name in the list shown in the sidebar
  
