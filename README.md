@@ -1,12 +1,16 @@
 # Notes app from React Scrimba class
 
-This simple app lets us write, update and delete notes, and interact fully with a database for our notes on Google Firebase.
+This simple app lets us write, update and delete notes, and interact fully with a database for our notes in Google Firestore (Firebase).
 The UI is provided by react-mde, read here: https://github.com/andrerpena/react-mde.
 
 Below a screenshot with on the left the 'write' or 'edit' mode, and on the right the 'preview' mode:
 ![readme_my_new_note_write_preview](https://github.com/AnneEstoppey/Scrimba_react_notes_app/assets/35219455/3d06d29c-5483-4ce5-b0af-b40aa2e7c9ea)
 
+How it looks in Google Firestore:
+![readme_cloud_firestore](https://github.com/AnneEstoppey/Scrimba_react_notes_app/assets/35219455/36b1cbcc-4909-40b1-9910-08b607c8a8c6)
 
+
+ 
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
