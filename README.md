@@ -26,6 +26,9 @@ How it looks like in Google Firestore:
 ![readme_cloud_firestore](https://github.com/AnneEstoppey/Scrimba_react_notes_app/assets/35219455/36b1cbcc-4909-40b1-9910-08b607c8a8c6)
 
 
+ &nbsp;
+
+ &nbsp;
  
 ## About Scrimba
 
