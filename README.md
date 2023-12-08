@@ -18,7 +18,7 @@ In this project we learned:
 &nbsp;
 
 Below a screenshot with on the left the 'write' or 'edit' mode, and on the right the 'preview' mode:
-![readme_my_new_note_write_preview](https://github.com/AnneEstoppey/Scrimba_react_notes_app/assets/35219455/3d06d29c-5483-4ce5-b0af-b40aa2e7c9ea)
+![readme_my_new_note_write_preview_](https://github.com/AnneEstoppey/Scrimba_react_notes_app_firestore/assets/35219455/800558a4-dd3f-4710-bcad-517939cf85f2)
 
 &nbsp;
 
