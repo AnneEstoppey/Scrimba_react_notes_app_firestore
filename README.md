@@ -3,7 +3,8 @@
 This simple app lets us write, update and delete notes, and interact fully with a database for our notes in Google Firestore (Firebase).
 The UI is provided by react-mde, read here: https://github.com/andrerpena/react-mde.
 
-Please see the dependencies (and versions!) in the file package.json in this repo. Also this has been developed using Vite, and the app will show on localhost.
+Please see the **dependencies** (and versions!) in the file **package.json** in this repo.<br>
+Also this has been developed using Vite, and the app will show on localhost.
 
 You will also have to sign up to Firebase, this is very easy to set up, see the documentation here:
 https://cloud.google.com/firestore/docs/create-database-web-mobile-client-library
